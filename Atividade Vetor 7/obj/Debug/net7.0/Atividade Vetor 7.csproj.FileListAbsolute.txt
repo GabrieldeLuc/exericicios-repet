@@ -1,0 +1,15 @@
+C:\Users\56262631879\Desktop\Atividade Vetor 7\bin\Debug\net7.0\Atividade Vetor 7.exe
+C:\Users\56262631879\Desktop\Atividade Vetor 7\bin\Debug\net7.0\Atividade Vetor 7.deps.json
+C:\Users\56262631879\Desktop\Atividade Vetor 7\bin\Debug\net7.0\Atividade Vetor 7.runtimeconfig.json
+C:\Users\56262631879\Desktop\Atividade Vetor 7\bin\Debug\net7.0\Atividade Vetor 7.dll
+C:\Users\56262631879\Desktop\Atividade Vetor 7\bin\Debug\net7.0\Atividade Vetor 7.pdb
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.csproj.AssemblyReference.cache
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.AssemblyInfoInputs.cache
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.AssemblyInfo.cs
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.csproj.CoreCompileInputs.cache
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.dll
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\refint\Atividade Vetor 7.dll
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.pdb
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\Atividade Vetor 7.genruntimeconfig.cache
+C:\Users\56262631879\Desktop\Atividade Vetor 7\obj\Debug\net7.0\ref\Atividade Vetor 7.dll

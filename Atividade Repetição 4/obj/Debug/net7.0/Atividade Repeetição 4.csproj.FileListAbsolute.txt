@@ -1,0 +1,15 @@
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\bin\Debug\net7.0\Atividade Repeetição 4.exe
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\bin\Debug\net7.0\Atividade Repeetição 4.deps.json
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\bin\Debug\net7.0\Atividade Repeetição 4.runtimeconfig.json
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\bin\Debug\net7.0\Atividade Repeetição 4.dll
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\bin\Debug\net7.0\Atividade Repeetição 4.pdb
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.csproj.AssemblyReference.cache
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.AssemblyInfoInputs.cache
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.AssemblyInfo.cs
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.csproj.CoreCompileInputs.cache
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.dll
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\refint\Atividade Repeetição 4.dll
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.pdb
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\Atividade Repeetição 4.genruntimeconfig.cache
+C:\Users\56262631879\Desktop\Atividade Repeetição 4\obj\Debug\net7.0\ref\Atividade Repeetição 4.dll

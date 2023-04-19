@@ -1,0 +1,15 @@
+C:\Users\56262631879\Desktop\Atividade fixação 6\bin\Debug\net7.0\Atividade fixação 6.exe
+C:\Users\56262631879\Desktop\Atividade fixação 6\bin\Debug\net7.0\Atividade fixação 6.deps.json
+C:\Users\56262631879\Desktop\Atividade fixação 6\bin\Debug\net7.0\Atividade fixação 6.runtimeconfig.json
+C:\Users\56262631879\Desktop\Atividade fixação 6\bin\Debug\net7.0\Atividade fixação 6.dll
+C:\Users\56262631879\Desktop\Atividade fixação 6\bin\Debug\net7.0\Atividade fixação 6.pdb
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.csproj.AssemblyReference.cache
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.AssemblyInfoInputs.cache
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.AssemblyInfo.cs
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.csproj.CoreCompileInputs.cache
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.dll
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\refint\Atividade fixação 6.dll
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.pdb
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\Atividade fixação 6.genruntimeconfig.cache
+C:\Users\56262631879\Desktop\Atividade fixação 6\obj\Debug\net7.0\ref\Atividade fixação 6.dll
